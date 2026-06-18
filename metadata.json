@@ -1,1 +1,4 @@
-[{"name":"aggresive","author":"laguser","likes":0}]
+    [
+      {"name":"aggresive","author":"laguser","likes":0},
+      {"name":"safe","author":"laguser","likes":0}
+    ]
